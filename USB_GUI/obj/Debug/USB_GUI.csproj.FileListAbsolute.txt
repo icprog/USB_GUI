@@ -1,0 +1,35 @@
+c:\users\ychost\documents\visual studio 2015\Projects\USB_GUI\USB_GUI\bin\Debug\USB_GUI.exe.config
+C:\Users\Ychost\Documents\Visual Studio 2015\Projects\USB_GUI\USB_GUI\bin\Debug\USB_GUI.exe
+C:\Users\Ychost\Documents\Visual Studio 2015\Projects\USB_GUI\USB_GUI\bin\Debug\USB_GUI.pdb
+C:\Users\Ychost\Documents\Visual Studio 2015\Projects\USB_GUI\USB_GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Ychost\Documents\Visual Studio 2015\Projects\USB_GUI\USB_GUI\obj\Debug\App.g.cs
+C:\Users\Ychost\Documents\Visual Studio 2015\Projects\USB_GUI\USB_GUI\obj\Debug\USB_GUI_MarkupCompile.cache
+C:\Users\Ychost\Documents\Visual Studio 2015\Projects\USB_GUI\USB_GUI\obj\Debug\USB_GUI_MarkupCompile.lref
+C:\Users\Ychost\Documents\Visual Studio 2015\Projects\USB_GUI\USB_GUI\obj\Debug\MainWindow.baml
+C:\Users\Ychost\Documents\Visual Studio 2015\Projects\USB_GUI\USB_GUI\obj\Debug\USB_GUI.g.resources
+C:\Users\Ychost\Documents\Visual Studio 2015\Projects\USB_GUI\USB_GUI\obj\Debug\USB_GUI.Properties.Resources.resources
+C:\Users\Ychost\Documents\Visual Studio 2015\Projects\USB_GUI\USB_GUI\obj\Debug\USB_GUI.csproj.GenerateResource.Cache
+C:\Users\Ychost\Documents\Visual Studio 2015\Projects\USB_GUI\USB_GUI\obj\Debug\USB_GUI.exe
+C:\Users\Ychost\Documents\Visual Studio 2015\Projects\USB_GUI\USB_GUI\obj\Debug\USB_GUI.pdb
+C:\Users\Ychost\Documents\Visual Studio 2015\Projects\USB_GUI\USB_GUI\obj\Debug\SliderRotation.baml
+C:\Users\Ychost\Documents\Visual Studio 2015\Projects\USB_GUI\USB_GUI\obj\Debug\SliderRotation.g.cs
+C:\Users\yy292_000\Desktop\USB_GUI\USB_GUI\bin\Debug\USB_GUI.exe.config
+C:\Users\yy292_000\Desktop\USB_GUI\USB_GUI\obj\Debug\USB_GUI.exe
+C:\Users\yy292_000\Desktop\USB_GUI\USB_GUI\obj\Debug\USB_GUI.pdb
+C:\Users\yy292_000\Desktop\USB_GUI\USB_GUI\bin\Debug\USB_GUI.exe
+C:\Users\yy292_000\Desktop\USB_GUI\USB_GUI\bin\Debug\USB_GUI.pdb
+C:\Users\yy292_000\Desktop\USB_GUI\USB_GUI\obj\Debug\USB_GUI.csprojResolveAssemblyReference.cache
+C:\Users\yy292_000\Desktop\USB_GUI\USB_GUI\obj\Debug\SliderRotation.baml
+C:\Users\yy292_000\Desktop\USB_GUI\USB_GUI\obj\Debug\MainWindow.g.cs
+C:\Users\yy292_000\Desktop\USB_GUI\USB_GUI\obj\Debug\SliderRotation.g.cs
+C:\Users\yy292_000\Desktop\USB_GUI\USB_GUI\obj\Debug\App.g.cs
+C:\Users\yy292_000\Desktop\USB_GUI\USB_GUI\obj\Debug\USB_GUI_MarkupCompile.cache
+C:\Users\yy292_000\Desktop\USB_GUI\USB_GUI\obj\Debug\USB_GUI_MarkupCompile.lref
+C:\Users\yy292_000\Desktop\USB_GUI\USB_GUI\obj\Debug\MainWindow.baml
+C:\Users\yy292_000\Desktop\USB_GUI\USB_GUI\obj\Debug\USB_GUI.g.resources
+C:\Users\yy292_000\Desktop\USB_GUI\USB_GUI\obj\Debug\USB_GUI.Properties.Resources.resources
+C:\Users\yy292_000\Desktop\USB_GUI\USB_GUI\obj\Debug\USB_GUI.csproj.GenerateResource.Cache
+C:\Users\Ychost\Documents\Visual Studio 2015\Projects\USB_GUI\USB_GUI\bin\Debug\DynamicDataDisplay.dll
+C:\Users\Ychost\Documents\Visual Studio 2015\Projects\USB_GUI\USB_GUI\bin\Debug\DynamicDataDisplay.xml
+C:\Users\Ychost\Documents\Visual Studio 2015\Projects\USB_GUI\USB_GUI\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\Ychost\documents\visual studio 2015\Projects\USB_GUI\USB_GUI\obj\Debug\USB_GUI.csprojResolveAssemblyReference.cache

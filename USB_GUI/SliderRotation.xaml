@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="USB_GUI.SliderRotation"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             Name="sliderRotation" Foreground="DodgerBlue" BorderBrush="White" >
+    <Viewbox>
+        <Grid>
+            <Canvas Name="canvas" Width="80" Height="80" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Ellipse Height="80" Name="ellipseBack" Stroke="{x:Null}" Width="80" Fill="{Binding ElementName=sliderRotation, Path=BorderBrush}" MouseLeave="ellipseBack_MouseLeave" MouseMove="ellipseBack_MouseMove" MouseLeftButtonUp="ellipseBack_MouseUp" MouseLeftButtonDown="ellipseBack_MouseDown" StrokeThickness="0.5">
+                    <Ellipse.Effect>
+                        <DropShadowEffect Direction="270" Color="Black" Opacity="0.5" BlurRadius="3" ShadowDepth="1"/>
+                    </Ellipse.Effect>
+                </Ellipse>
+                <Ellipse Height="20" Name="handle" Stroke="#20000000" Width="20" Fill="{Binding ElementName=sliderRotation, Path=Foreground}" RenderTransformOrigin="0.5,1.75" IsHitTestVisible="False" Margin="30,5,0,0">
+                    <Ellipse.RenderTransform>
+                        <RotateTransform x:Name="rotate" />
+                    </Ellipse.RenderTransform>
+                </Ellipse>
+            </Canvas>
+        </Grid>
+    </Viewbox>
+</UserControl>
